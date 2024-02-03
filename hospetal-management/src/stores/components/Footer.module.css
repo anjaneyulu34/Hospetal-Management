@@ -1,0 +1,25 @@
+.footer{
+  background-color: rgb(0, 119, 255);
+  height: 150px;
+  width: 100%;
+  margin-top: 00px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color:darkblue;
+  font-weight:600 ;
+  font-size: 15px;
+}
+.footContainer{
+  width: 80%;
+  height: 100px;
+  
+  color:white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 80px;
+}
+.footContainer h3{
+  color: black;
+}

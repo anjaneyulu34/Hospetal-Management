@@ -1,0 +1,37 @@
+.nav{
+  width: 100%;
+  height: 80px;
+  background-color:cornflowerblue;
+  
+}
+.navItems{
+  display: flex;
+}
+.navItems h2{
+  color: brown;
+  font-size: 20px;
+  padding: 20px;
+  font-weight: 700;
+}
+.submenu{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 40px;
+  font-weight: 700;
+  font-style: italic;
+  font-family:'Times New Roman';
+  padding-left: 20px;
+  font-size: 20px;
+}
+.submenu a{
+  display: inline-flex;
+  padding: 10px;
+  text-decoration:none;
+  color:blanchedalmond;
+   margin-left: 10px;
+}
+.aa a{
+   margin-top: 10px;
+   padding: 10px;
+}
+
